@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Investigació del DNI"
+date:   2020-05-29 21:20:55 +0200
+categories: Learn DNI
+---
+Estem investigant que és el DNI, en particular la partícula del perquè hi ha la lletra que hi ha, o més aviat qui ho va fer.
+
+La motivació de crear aquesta web és (muchas gracias):
+- Viernes 29, habrá una página de rimasted wheel que te dirá como calcular la letra del DNI.
+- ¿Estás hablando de la leyenda escrita en un arcaico pergamino, resguardado en un remoto lugar por una poderosa perra futbolera?
+
+# Investigació
+Començem la remota investigació, llavors mirem la [wikipedia][wiki_dni]...
+
+[wiki_dni]: https://es.wikipedia.org/wiki/DNI_(Espa%C3%B1a)
+[BOE_2005_12_05]: https://www.boe.es/buscar/act.php?id=BOE-A-2005-21163
+[govierno_letra_dni]: http://www.interior.gob.es/web/servicios-al-ciudadano/dni/calculo-del-digito-de-control-del-nif-nie
+[govierno_articulo_11]: http://www.interior.gob.es/web/servicios-al-ciudadano/normativa/reales-decretos/real-decreto-1553-2005-de-23-de-diciembre#art11
+[gaussianos_dni]: https://www.gaussianos.com/calcular-la-letra-del-dni/
+[dni_electronico]: https://www.dnielectronico.es/
+[francisco_franco_bahamonde]: https://www.cope.es/actualidad/noticias/primer-dni-otros-detalles-curiosos-documento-nacional-identidad-20180302_173535
+[diario_informacion]: https://www.diarioinformacion.com/sociedad/2018/08/24/significan-numeros-dni/2055769.html
+[el_mundo]: https://www.elmundo.es/espana/2014/03/05/5307ae3c268e3e282a8b4585.html
+[abc_espana]: https://www.abc.es/espana/20140918/abci-historia-primer-numero-curiosidades-201409171629.html?ref=https:%2F%2Fwww.google.com%2F
