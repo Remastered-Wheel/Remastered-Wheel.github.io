@@ -11,7 +11,48 @@ La motivació de crear aquesta web és (muchas gracias):
 - ¿Estás hablando de la leyenda escrita en un arcaico pergamino, resguardado en un remoto lugar por una poderosa perra futbolera?
 
 # Investigació
-Començem la remota investigació, llavors mirem la [wikipedia][wiki_dni]...
+Comencem la remota investigació, llavors comencem mirant la [Wikipedia][wiki_dni].
+Aquí descobrim que el DNI significa _documento nacional de identidad_.
+Unes quantes anècdotes que descobrim:
+- Març de 2006 és electrònic.
+- És una tarjeta de policarbonat que incorpora un xip digital i que es identic a les targetes de crèdit.
+- Obligatoria a partir dels 14 anys.
+## Història
+Al 1824, el rei Fernando VII va crear la Policia on tenien la potestat de crear documents que incluesin: edat, sexe, estat, profesió i naturaleza del vecindari.
+
+Al 2 de març de 1944, a traves del decret, es disposa de la creació d'un nou document. És el primer document conegut com a DNI, que es va fer amb un concurs públic guanyant 30 000 pesetes.
+
+Al 1951, el general Franco té la iniciativa de crear el DNI obtenint el seu propi.
+
+La decada dels 1990 asumeix la responsablitat de la seva creació la _Fábrica Nacional de Moneda y Timbre_.
+
+Al 2006 es va incorporar un xip al DNI.
+
+Al 2015 es llança el DNI 3.0 amb tecnologia NFC.
+
+# Mentides
+- Agila imperial de Franco, de fet es l'águila de San Juan.
+
+# TODO TODOTODO
+- Contador, incrementador
+- Març de 2006 és electrònic, quines implicacions porta? Quin dia és?
+- Que és el policarbonat?
+- Qui és el rei Fernando VII?
+  - Que representa la Policia?
+    - Que representa [padrones](https://es.wikipedia.org/wiki/Padr%C3%B3n_municipal_de_habitantes) que podien incloure dades?
+    - Que és la naturaleza del vecindari?
+    - Que és el _Cuerpo Nacional de Policía_?
+- Que és un decret?
+  - Concurs públic per a la creació del DNI?
+- General Franco
+- Altres paisos? Anglaterra, Franza, Andorra, Alemanya, Filandia?
+- Águila San Juan evangelista, no es imperial. [Los cuatro evangelistas](https://simbolosysignificados.blogspot.com/2018/06/los-simbolos-de-los-cuatro-evangelistas.html)
+  - Tetramorfos(https://es.wikipedia.org/wiki/Tetramorfos)
+    - leyenda como selecciono iglesia evangelios
+    - apocrifos, [leienda del altar](https://www.lavanguardia.com/lacontra/20170401/421349683405/y-los-cuatro-evangelios-volaron-por-si-solos-hasta-el-altar.html)
+    - aristoteles i cristianisme
+- Fábrica Nacional de Moneda y Timbre.
+- Tecnologia NFC.
 
 [wiki_dni]: https://es.wikipedia.org/wiki/DNI_(Espa%C3%B1a)
 [BOE_2005_12_05]: https://www.boe.es/buscar/act.php?id=BOE-A-2005-21163
